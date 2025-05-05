@@ -1,8 +1,8 @@
 # S2I_Typescript_Project
 This project involves the development of a system in TypeScript that models the operational structure of a startup that facilitates citizens' access to government incentives, focusing on the interactions between startups, government incentives, and participating citizens.
 100% Typescript Made
-
-
+### Links
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AreLory/pen/vEEjamb)
 
 
 
