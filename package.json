@@ -1,0 +1,18 @@
+{
+  "name": "s2i_typescript_project",
+  "version": "1.0.0",
+  "description": "This project involves the development of a system in TypeScript that models the operational structure of a startup that facilitates citizens' access to government incentives, focusing on the interactions between startups, government incentives, and participating citizens.\r 100% Typescript Made\r ### Links\r [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AreLory/pen/vEEjamb)",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "verify": "npm run tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "typescript": "^5.8.3"
+  }
+}
